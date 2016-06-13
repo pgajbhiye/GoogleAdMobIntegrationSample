@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "513737517308",
+    "firebase_url": "https://project-2952911748916763421.firebaseio.com",
+    "project_id": "project-2952911748916763421",
+    "storage_bucket": "project-2952911748916763421.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513737517308:android:2105175c9d6e4d9d",
+        "android_client_info": {
+          "package_name": "snowdonout.adsintegration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513737517308-oo4g09nhfir860khaded7jbstgi508na.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaMMs8H2wqKDTFHMxXJU6HHaI3pQ0tdaA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
